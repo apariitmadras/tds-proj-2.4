@@ -1,1 +1,2 @@
-# tds-proj-2.4
+# tds-data-analyst-agent
+: Data Analyst Agent using FastAPI to analyze and visualize data from tasks.
